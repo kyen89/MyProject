@@ -1,0 +1,19 @@
+INFO:root:Executed R('load(\'../../instructor/assignments/hw7/hw7-test.rda\')')
+INFO:root:(2 points) R('all.equal(n.speeches, sol$n.speeches)')[0] is True
+INFO:root:(1 points) R('all.equal(class(presidents), class(sol$presidents))')[0] is True
+INFO:root:(1 points) R('all.equal(presidents, sol$presidents)')[0] is True
+INFO:root:(1 points) R('all.equal(class(tempDates), class(sol$tempDates))')[0] is True
+INFO:root:(1 points) R('all.equal(tempDates, sol$tempDates)')[0] is True
+INFO:root:(1 points) R('all.equal(class(speechYr), class(sol$speechYr))')[0] is True
+INFO:root:(1 points) R('all.equal(speechYr, sol$speechYr)')[0] is True
+INFO:root:(1 points) R('all.equal(class(speechMo), class(sol$speechMo))')[0] is True
+INFO:root:(1 points) R('all.equal(speechMo, sol$speechMo)')[0] is True
+INFO:root:(1 points) a simple plot of mds? is y
+INFO:root:(1 points) a more complicated plot of mds? is y
+INFO:root:(1 points) hierarchical clustering? is y
+INFO:root:(1 points) speech year vs number of sentences? is y
+INFO:root:(1 points) speech year vs number of words? is y
+INFO:root:(1 points) speech year vs number of characters? is y
+INFO:root:(1 points) speech year vs avg word length? is y
+INFO:root:(1 points) speech year vs avg sentence length? is y
+INFO:root:You got a 18 out of 18.
